@@ -1,0 +1,245 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab1_1",
+            "request": "launch",
+            "mainClass": "lab1_1",
+            "projectName": "javaui_3bac1da2"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab1_2",
+            "request": "launch",
+            "mainClass": "lab1_2",
+            "projectName": "javaui_3bac1da2"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab1_3",
+            "request": "launch",
+            "mainClass": "lab1_3",
+            "projectName": "javaui_3bac1da2"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab1_4",
+            "request": "launch",
+            "mainClass": "lab1_4",
+            "projectName": "javaui_3bac1da2"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab1_5",
+            "request": "launch",
+            "mainClass": "lab1_5",
+            "projectName": "javaui_3bac1da2"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab2_1",
+            "request": "launch",
+            "mainClass": "lab2_1",
+            "projectName": "javaui_3bac1da2"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab2_2",
+            "request": "launch",
+            "mainClass": "lab2_2",
+            "projectName": "javaui_3bac1da2"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab2_3",
+            "request": "launch",
+            "mainClass": "lab2_3",
+            "projectName": "javaui_3bac1da2"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab2_4",
+            "request": "launch",
+            "mainClass": "lab2_4",
+            "projectName": "javaui_3bac1da2"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab3_1",
+            "request": "launch",
+            "mainClass": "lab3_1",
+            "projectName": "javaui_3bac1da2"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab3_2",
+            "request": "launch",
+            "mainClass": "lab3_2",
+            "projectName": "javaui_3bac1da2"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab3_3",
+            "request": "launch",
+            "mainClass": "lab3_3",
+            "projectName": "javaui_3bac1da2"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab3_4",
+            "request": "launch",
+            "mainClass": "lab3_4",
+            "projectName": "javaui_3bac1da2"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab3_5ex",
+            "request": "launch",
+            "mainClass": "lab3_5ex",
+            "projectName": "javaui_3bac1da2"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab4_1",
+            "request": "launch",
+            "mainClass": "lab4_1",
+            "projectName": "javaui_3bac1da2"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab4_2",
+            "request": "launch",
+            "mainClass": "lab4_2",
+            "projectName": "javaui_3bac1da2"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab4_3",
+            "request": "launch",
+            "mainClass": "lab4_3",
+            "projectName": "javaui_3bac1da2"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab4_4",
+            "request": "launch",
+            "mainClass": "lab4_4",
+            "projectName": "javaui_3bac1da2"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab5_1",
+            "request": "launch",
+            "mainClass": "lab5_1",
+            "projectName": "javaui_3bac1da2"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab5_2",
+            "request": "launch",
+            "mainClass": "lab5_2",
+            "projectName": "javaui_3bac1da2"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab5_3",
+            "request": "launch",
+            "mainClass": "lab5_3",
+            "projectName": "javaui_3bac1da2"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab5_4",
+            "request": "launch",
+            "mainClass": "lab5_4",
+            "projectName": "javaui_3bac1da2"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab6_1",
+            "request": "launch",
+            "mainClass": "lab6_1",
+            "projectName": "javaui_3bac1da2"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab6_2",
+            "request": "launch",
+            "mainClass": "lab6_2",
+            "projectName": "javaui_3bac1da2"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab6_3",
+            "request": "launch",
+            "mainClass": "lab6_3",
+            "projectName": "javaui_3bac1da2"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab6_4",
+            "request": "launch",
+            "mainClass": "lab6_4",
+            "projectName": "javaui_3bac1da2"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab6_5",
+            "request": "launch",
+            "mainClass": "lab6_5",
+            "projectName": "javaui_3bac1da2"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab7_1",
+            "request": "launch",
+            "mainClass": "lab7_1",
+            "projectName": "javaui_3bac1da2"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab7_2",
+            "request": "launch",
+            "mainClass": "lab7_2",
+            "projectName": "javaui_3bac1da2"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab7_3",
+            "request": "launch",
+            "mainClass": "lab7_3",
+            "projectName": "javaui_3bac1da2"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab7_4",
+            "request": "launch",
+            "mainClass": "lab7_4",
+            "projectName": "javaui_3bac1da2"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab7_5",
+            "request": "launch",
+            "mainClass": "lab7_5",
+            "projectName": "javaui_3bac1da2"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "javaui_3bac1da2"
+        }
+    ]
+}

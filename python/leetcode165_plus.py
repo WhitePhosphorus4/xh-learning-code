@@ -1,0 +1,14 @@
+from itertools import zip_longest
+version1 = '1.0.1'
+version2 = '1'
+# print(dir(itertools))
+
+def fun(version1:str,version2:str)->int:
+    for v1, v2 in zip_longest(version1.split('.'), version2.split('.'), fillvalue=0):
+        x, y = int(v1), int(v2)
+        if x != y:
+            return 1 if x > y else -1
+
+    return 0
+
+print(fun(version1,version2))
