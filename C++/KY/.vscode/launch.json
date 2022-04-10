@@ -10,7 +10,7 @@
             "request": "launch", //launch启动
             // "program": "${workspaceRoot}/${fileBasenameNoExtension}.exe",
             "program": "${fileDirname}/${fileBasenameNoExtension}.exe",
-            "args": [],
+            "args": ["5","100"],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
             "environment": [],
@@ -35,7 +35,7 @@
                 "/C",
                 "${fileDirname}\\${fileBasenameNoExtension}.exe",
                 "&",
-                "pause"
+                "pause",
             ],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
